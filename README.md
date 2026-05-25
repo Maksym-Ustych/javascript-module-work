@@ -24,3 +24,7 @@
 
 ## Запуск проєкту
 Відкрити проєкт у Visual Studio Code та запустити через Live Server.
+
+## Demo Video
+
+https://docs.google.com/videos/d/1OU85XexF96iE_E83Cfoe6YChGiFm3VYHYhNT2m8Fmdw/edit?usp=sharing
